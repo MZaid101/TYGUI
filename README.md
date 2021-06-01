@@ -9,16 +9,8 @@ Train Yolov4 for your custom object detection using TYGUI on windows.
 5. Dataset Directory that contains all your images with labels
 
 ## Usage 
+![image](https://user-images.githubusercontent.com/53510596/120352655-6cfcb980-c31a-11eb-9cfc-162681540730.png)
 
-import tkinter as tk
-from tygui import TrainYolo
-def main():
-	root = tk.Tk()
-	TrainYolo(root)
-	root.mainloop()
-
-if __name__ == "__main__":
-	main()
 
 
 ## GUI
