@@ -9,7 +9,7 @@ Train Yolov4 for your custom object detection using TYGUI on windows.
 5. Dataset Directory that contains all your images with labels
 
 ## Usage 
-'''
+
 import tkinter as tk
 from tygui import TrainYolo
 def main():
@@ -19,7 +19,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
-'''
+
 
 ## GUI
 ![image](https://user-images.githubusercontent.com/53510596/120350802-bd731780-c318-11eb-8f0a-b563c07d65fc.png)
